@@ -1,0 +1,7 @@
+name: VazzMobCoins
+main: br.alisson.gemas.Principal
+version: 1.0
+author: [zVazz]
+commands:
+  mobcoin:
+    aliases: [mobcoins]

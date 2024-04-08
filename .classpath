@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Depêndencias/MVdWPlaceholderAPI.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Depêndencias/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Depêndencias/PlaceholderAPI.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Depêndencias/PlaceholderAPI-2.11.4.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Depêndencias/PlaceHolderAPI-Addon.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Depêndencias/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Depêndencias/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

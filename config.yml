@@ -1,0 +1,6 @@
+MySQL:
+  Ativar: false
+  User: 'root'
+  Password: '1234'
+  Host: 'localhost'
+  Database: 'db'
