@@ -1,0 +1,1 @@
+Plugin simples de MobCoins.
